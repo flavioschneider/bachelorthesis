@@ -1,6 +1,7 @@
 # Bachelor Thesis Code 
 
-This repository contains all the python colab notebooks, with the PyTorch code used for the models and the code necessary to generate the patterns shown in the thesis.  
+This repository contains all the python colab notebooks, with the PyTorch code used for the models and the code necessary to generate the patterns shown in the [thesis](https://github.com/flavioschneider/bachelorthesis/blob/master/grid_cells_emergence.pdf)
+.  
 
 `GRU_noisy_regularization_path_firing.ipynb`:
 
